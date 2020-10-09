@@ -22,33 +22,14 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 
 6. Ravi, T. T., & Krishna, C. T. (2013). Autonomous robot motion path planning using shortest path planning algorithms. International organization of Scientific Research (IOSR), Vol. 3, Issue. 1 ,pp. 65-69.
 
+#### Teaching
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Raviteja-T/My-Profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Working as a TRA (Teaching cum Research Assistant) in VIT, Vellore (09/2019).
+2. Worked as a Asst.prof in Sai tirumala NVR engineering college, Narasaraopet (2016 to 2019)
+3. Worked as a Incharge Head of the Department in St.Marys's group of institutions, Guntur (2013 to 2016).
+4. Worked as a Asst.prof of Narasaraopet Engineering College, Narasaraopet (2012)
 
 ### Contact
 
-tirumala.raviteja@vit.ac.in
-raviteja.research@gmail.com
+tirumala.raviteja@vit.ac.in.
+raviteja.research@gmail.com.
