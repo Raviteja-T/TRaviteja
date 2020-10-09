@@ -1,3 +1,4 @@
+[Image](E:\Rt Certificates\Pic.jpeg)
 
 ## About
 
@@ -10,11 +11,17 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 #### Publications
 
 1. Rajay Vedaraj I.S, Jino.S.Ganesh, Niranjen swarup, Madhan Kumar, Raviteja Tirumalapudi, “ARTIFICIAL INTELLIGENCE USING IN VISUAL SLAM METHODS – A REVIEW”, IJAST, vol. 29, no. 4s, pp. 3158-3167, Jun. 2020.
+
 2. Raviteja Tirumalapudi, I S Rajay Vedaraj, " An Introduction Of Autonomous Vehicles And A Brief Survey", Journal of Critical Reviews, vol. 7, no. 13, pp. 196-202, Jun. 2020. 
+
 3. Raviteja Tirumalapudi, I S Rajay Vedaraj, " A New RT Shortest Path Planning Algorithm For Mobile Robot Navigation In Known Terrain", International Journal Of Scientific & Technology Research, vol. 9, no. 03, pp. 1044-1047, Mar. 2020.
+
 4. Raviteja Tirumalapudi, I S Rajay Vedaraj, " Mobile Robots Obstacle Avoidance and Shortest Path Planning Using Algorithms – A Review ", Test Engineering & Management, vol. 83, no. 03, pp. 22434-22443, Jun. 2020.
+
 5. Ravi, T. T., & Krishna, C. T. (2012). Computation of natural frequencies of multi degree of freedom system. International Journal of Engineering Research and Technology (IJERT), 10, 2278-2281.
+
 6. Ravi, T. T., & Krishna, C. T. (2013). Autonomous robot motion path planning using shortest path planning algorithms. International organization of Scientific Research (IOSR), Vol. 3, Issue. 1 ,pp. 65-69.
+
 
 
 ```markdown
