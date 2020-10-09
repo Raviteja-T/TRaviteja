@@ -1,4 +1,4 @@
-[E:\Rt Certificates\Pic.jpeg]
+![Image](E:\Rt Certificates\Pic.jpeg)
 
 ## About
 
