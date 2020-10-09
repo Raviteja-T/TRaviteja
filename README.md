@@ -31,5 +31,5 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 
 ### Contact
 
-tirumala.raviteja@vit.ac.in.
+tirumala.raviteja@vit.ac.in.\
 raviteja.research@gmail.com.
