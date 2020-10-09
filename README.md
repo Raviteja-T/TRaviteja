@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/Raviteja-T/My-Profile/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a PhD student at Vellore Institute of Technology (Vellore). Now i am working with Prof. I.S Rajay Vedaraj. Before my PhD, completed my Bachelors in Mechanical Engineering from Narasaraopeta Engineering College, affiliated JNTU Kakinada (India) and my Masters in Robotics from SRM Institute of Science and Technology (India).
 
 ### Markdown
 
