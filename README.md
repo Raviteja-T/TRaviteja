@@ -1,4 +1,4 @@
-[Image](E:\Rt Certificates\Pic.jpeg)
+[E:\Rt Certificates\Pic.jpeg]
 
 ## About
 
