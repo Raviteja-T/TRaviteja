@@ -73,7 +73,7 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 Raviteja Tirumalapudi\
 Research Scholar, School of Mechanical Engineering\
 Vellore institute of technology, Vellore, Tamilnadu, India - 632014\
-+917416799380\
+
 tirumala.raviteja@vit.ac.in.\
 raviteja.research@gmail.com.\
 ORCID : 0000-0002-2265-3673
