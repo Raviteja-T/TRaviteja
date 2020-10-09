@@ -2,9 +2,9 @@
 
 I am a PhD student at Vellore Institute of Technology (Vellore). Now i am working with Prof. I.S Rajay Vedaraj. Before my PhD, completed my Bachelors in Mechanical Engineering from Narasaraopeta Engineering College, affiliated JNTU Kakinada (India) and my Masters in Robotics from SRM Institute of Science and Technology (India).
 
-### Markdown
+### Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am broadly interested in Motion Planning and Control Systems in Autonomous Vehicles, Mobile Robotics and Path Planning Algorithms. I have worked on Autonomous robot motion path planning using shortest path planning algorithms. 
 
 ```markdown
 Syntax highlighted code block
