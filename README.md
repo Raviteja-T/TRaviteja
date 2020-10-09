@@ -1,4 +1,4 @@
-![image](https://storage.ning.com/topology/rest/1.0/file/get/8000292501?profile=RESIZE_710x&width=184&height=184&crop=1%3A1)
+				![image](https://storage.ning.com/topology/rest/1.0/file/get/8000292501?profile=RESIZE_710x&width=184&height=184&crop=1%3A1)
 
 ## About
 
@@ -68,7 +68,7 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 
 ### Contact
 
-Raviteja Tiruamalapudi\
+Raviteja Tirumalapudi\
 Research Scholar, School of Mechanical Engineering\
 Vellore institute of technology, Vellore, Tamilnadu, India - 632014\
 +917416799380\
