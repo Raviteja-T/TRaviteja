@@ -8,7 +8,7 @@ I am a PhD student at Vellore Institute of Technology (Vellore). Now i am workin
 
 I am broadly interested in Motion Planning and Control Systems in Autonomous Vehicles, Mobile Robotics and Path Planning Algorithms. I have worked on Autonomous robot motion path planning using shortest path planning algorithms. 
 
-#### Publications
+### Publications
 
 1. Rajay Vedaraj I.S, Jino.S.Ganesh, Niranjen swarup, Madhan Kumar, Raviteja Tirumalapudi, “ARTIFICIAL INTELLIGENCE USING IN VISUAL SLAM METHODS – A REVIEW”, IJAST, vol. 29, no. 4s, pp. 3158-3167, Jun. 2020.
 
@@ -22,9 +22,51 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 
 6. Ravi, T. T., & Krishna, C. T. (2013). Autonomous robot motion path planning using shortest path planning algorithms. International organization of Scientific Research (IOSR), Vol. 3, Issue. 1 ,pp. 65-69.
 
-#### Teaching
+### Memberships
+
+1. IJERT- Robotics and Automation Society.
+2. Global Journal of computer science and technology
+3. IRED – Institute of Research Engineers and Doctors (No : SNM10100059417)
+4. IAENG – International Association of Engineers (No : 214423)
+
+### Faculty Development Programs
+
+1.	Participated in poster presentation on Artificial intelligence and Robotics in SRM UNIVERSITY, Chennai.
+2.	Participated in a two day national level workshop on “RECENT ADVANCES IN MECHANICAL ENGIEERING” in TIRUMALA ENGINEERING COLLEGE, NRT.
+3.	Participated in a two day national level workshop on “FINATE ELEMENT ANALYSIS” in NARASARAOPETA ENGINEERING COLLEGE, NRT.
+4.	Participated in a one day national level conference Transformation of Engineering Education over Decades- Its Future in Sai tirumala NVR engineering college, NRT.
+5.	“Autonomous Vehicle Technology” by Mr.Sankar TML, Divisional Manager- R &D division, Ashok Leyland Limited, Chennai (08/2019) in VIT, Vellore.
+6.	“Deep drive into Machine Learning Algorithms for Natural Language Processing” by Mr. Marakkannu M, Senior Director – Engineering, Kore.ai , Hyderabad (09/2019) in VIT,   
+     Vellore.
+7.	“Deep	Learning	Concepts	with	Convolutional	Neural	Network”	by Mr. Mithun, Assistant Manager , Indictis Pvt Ltd, Bengaluru (10/2019) in VIT, Vellore.
+8.	“Artificial intelligence Vs Human intelligence: Nurturing Critical Thinking Skills” by Dr. K. Balaji Reddy, Director,Training & Development , Swarnandhra college of 
+     Engineering & Technology, Narsapuram (10/2019) in VIT,Vellore.
+9.	“IOT in Industrial Automation”  Ajith Chathanath, Product Owner & Senior Principal, SCHNEIDER ELECTRIC, Bangalore (10/2019) in VIT,Vellore.
+10.	“IOT in CYBERSECURITY” PRASHANTH AC And Priya C Shekar, Technical Experts Cyber Security , SCHNEIDER ELECTRIC , Bangalore (10/2019) in VIT,Vellore.
+11.	“Implementation Practices on Artificial Neural Networks – Hands on with Python” Mr. Mithun DJ , Assistant Manager, Indictis Private Ltd, Bengaluru (11/2019) in VIT,Vellore.
+12.	“Effectiveness of 5S thinking and its implementation on productivity of Engineering Industry” Mr. R. Shravan Kumar, Assistant Manager, BMW, Chennai (11/2019) in VIT,Vellore.
+13.	“Sentiment Analysis using KNIME: A Machine learning Approach” Prof.S. Chandrasekhar,PhD. (University of Georgia), Senior Professor & Director, IFIM, Bengaluru (11/2019) in 
+     VIT,Vellore.
+14.	 “Reinforcement Learning (Introduction, Q-Learning, and SARSA algorithm) and hands on session” Dr. Akshay Deepak, Faculty, NIT, Bihar, Senior Professor ,(12/2019) in 
+      VIT,Vellore.
+15.	“Artificial Intelligence and Computer Vision using Python based Machine Learning” Mr. Jai Ganesh Suresh, Lead Engineer, HCL Technologies, Chennai ,(12/2019) in VIT,Vellore.
+16.	“AI and Cognitive Services” Ms. Alagunila Meganathan, Founder & CTO , Namakkal, Namakkal,(12/2019) in VIT,Vellore.
+17.	“Swarm Intelligence in Engineering Applications” Dr.Suresh Chandra Satapathy, Professor & Dean Research, School of Computer Engineering, IIT Hyderabad,(12/2019) in 
+     VIT,Vellore.
+
+### Teaching
 
 1. Working as a TRA (Teaching cum Research Assistant) in VIT, Vellore (09/2019).
+**Work Description:**
+      -	Wrote research papers, reports, reviews and summaries regarding Robotics, Data Science & self-driving cars.
+      -	Performed research into study topics to increase knowledge and ability to provide valuable contributions.
+      -	Led special projects through effective emergency resolution by diminishing obstacles and saving time.
+      -	Collaborated with team members to initiate best practices to achieve organizational goals
+      -	Gathered and organized information for research purposes.
+      -	Evaluated and supervised student activities and performance levels to provide reports on academic progress.
+      -	Handled classroom administration for professors, including taking attendance and recording student progress.
+      -	Took attendance, graded assignments and maintained student records to assist teachers with administrative tasks and maintain smooth daily operations.
+      -	Supported weekly lab sessions, contributing to student engagement, comprehension and learning objectives. 
 2. Worked as a Asst.prof in Sai tirumala NVR engineering college, Narasaraopet (2016 to 2019)
 3. Worked as a Incharge Head of the Department in St.Marys's group of institutions, Guntur (2013 to 2016).
 4. Worked as a Asst.prof of Narasaraopet Engineering College, Narasaraopet (2012)
