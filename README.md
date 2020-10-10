@@ -8,7 +8,7 @@ I am a PhD student at Vellore Institute of Technology (Vellore). Now i am workin
 
 ### Research Interests
 
-I am broadly interested in Motion Planning and Control Systems in Autonomous Vehicles, Mobile Robotics and Path Planning Algorithms. I have worked on Autonomous robot motion path planning using shortest path planning algorithms. 
+I am broadly interested in Motion Planning and Control Systems in Autonomous Vehicles, Mobile Robotics, Path Planning Algorithms and Artificial Intelligence. I have worked on Autonomous robot motion path planning using shortest path planning algorithms. 
 
 ### Publications
 
