@@ -17,12 +17,9 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 3. Raviteja Tirumalapudi, I S Rajay Vedaraj, " Mobile Robots Obstacle Avoidance and Shortest Path Planning Using Algorithms – A Review ", Test Engineering & Management, vol. 83, no. 03, pp. 22434-22443, Jun. 2020.[\[PDF\]](http://testmagzine.biz/index.php/testmagzine/article/view/11299/8712) 
 4. Rajay Vedaraj I.S, Jino.S.Ganesh, Niranjen swarup, Madhan Kumar, Raviteja Tirumalapudi, “ARTIFICIAL INTELLIGENCE USING IN VISUAL SLAM METHODS – A REVIEW”, IJAST, vol. 29, no. 4s, pp. 3158-3167, Jun. 2020.[\[PDF\]](http://sersc.org/journals/index.php/IJAST/article/view/22708/11586) 
 
-### Memberships
-
-1. IJERT- Robotics and Automation Society.
-2. Global Journal of computer science and technology
-3. IRED – Institute of Research Engineers and Doctors (No : SNM10100059417)
-4. IAENG – International Association of Engineers (No : 214423)
+### Teaching
+1. AUTONOMOUS VEHICLES – CONTROL AND LEARNING SYSTEM (RSS02162).
+2. AUTONOMOUS VEHICLES – PLANNING AND SYSTEM DESIGN (RSS02163).
 
 ### Faculty Development Programs
 
@@ -49,7 +46,8 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 17.	“Swarm Intelligence in Engineering Applications” Dr.Suresh Chandra Satapathy, Professor & Dean Research, School of Computer Engineering, IIT Hyderabad,(12/2019) in 
      VIT,Vellore.
 
-### Teaching
+
+### Experience
 
 1. Working as a TRA (Teaching cum Research Assistant) in VIT, Vellore (09/2019).\
 **Work Description:**
@@ -65,6 +63,13 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 2. Worked as a Asst.prof in Sai tirumala NVR engineering college, Narasaraopet (2016 to 2019)
 3. Worked as a Incharge Head of the Department in St.Marys's group of institutions, Guntur (2013 to 2016).
 4. Worked as a Asst.prof of Narasaraopet Engineering College, Narasaraopet (2012)
+
+### Memberships
+
+1. IJERT- Robotics and Automation Society.
+2. Global Journal of computer science and technology
+3. IRED – Institute of Research Engineers and Doctors (No : SNM10100059417)
+4. IAENG – International Association of Engineers (No : 214423)
 
 ### Contact
 
