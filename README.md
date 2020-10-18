@@ -18,8 +18,8 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 4. Rajay Vedaraj I.S, Jino.S.Ganesh, Niranjen swarup, Madhan Kumar, Raviteja Tirumalapudi, “ARTIFICIAL INTELLIGENCE USING IN VISUAL SLAM METHODS – A REVIEW”, IJAST, vol. 29, no. 4s, pp. 3158-3167, Jun. 2020.[\[PDF\]](http://sersc.org/journals/index.php/IJAST/article/view/22708/11586) 
 
 ### Teaching
-1. AUTONOMOUS VEHICLES – CONTROL AND LEARNING SYSTEM (RSS02162).
-2. AUTONOMOUS VEHICLES – PLANNING AND SYSTEM DESIGN (RSS02163).
+1. Autonomous vehicles - Control and Learning System.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/blob/main/Teaching/Autonomous%20vehicles%20-%20Control%20and%20Learning%20System.pdf)
+2. Autonomous Vehicles – Planning And System Design (RSS02163).[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/blob/main/Teaching/Autonomous%20Vehicles%20%E2%80%93%20Planning%20And%20System%20Design.pdf)
 
 ### Faculty Development Programs
 
