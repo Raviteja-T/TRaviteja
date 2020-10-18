@@ -2,3 +2,14 @@ title: Raviteja Tirumalapudi
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
+  <header class="page-header" role="banner">
+<!--      <h1 class="project-name">raviteja-t.github.io/TRaviteja/</h1> -->
+      <h1 class="project-name">Raviteja Tirumalapudi</h1>
+      <h2 class="project-tagline"></h2>
+        <a href="#research-interests" accesskey="1" title="" class="btn">Research Interests</a>
+        <a href="#publications" accesskey="3" title="" class="btn">Publications</a>
+        <a href="#teaching" accesskey="4" title="" class="btn">Teaching</a>
+        <a href="#contact" accesskey="8" title="" class="btn">Contact</a>
+        
+<!--      
+    </header>
