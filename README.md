@@ -71,9 +71,7 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 3. IRED – Institute of Research Engineers and Doctors (No : SNM10100059417)
 4. IAENG – International Association of Engineers (No : 214423)
 
-### Resume
-
-Raviteja Tirumalapudi[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/blob/main/Resume.pdf)
+### Resume [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/blob/main/Resume.pdf)
 
 ### Contact
 
