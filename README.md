@@ -14,8 +14,8 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 
 1. Raviteja Tirumalapudi, I S Rajay Vedaraj, " An Introduction Of Autonomous Vehicles And A Brief Survey", Journal of Critical Reviews, vol. 7, no. 13, pp. 196-202, Jun. 2020. [\[PDF\]](http://www.jcreview.com/fulltext/197-1593069401.pdf) 
 2. Raviteja Tirumalapudi, I S Rajay Vedaraj, " A New RT Shortest Path Planning Algorithm For Mobile Robot Navigation In Known Terrain", International Journal Of Scientific & Technology Research, vol. 9, no. 03, pp. 1044-1047, Mar. 2020.[\[PDF\]](http://www.ijstr.org/final-print/mar2020/A-New-Rt-Shortest-Path-Planning-Algorithm-For-Mobile-Robot-Navigation-In-Known-Terrain.pdf) 
-3. Raviteja Tirumalapudi, I S Rajay Vedaraj, " Mobile Robots Obstacle Avoidance and Shortest Path Planning Using Algorithms – A Review ", Test Engineering & Management, vol. 83, no. 03, pp. 22434-22443, Jun. 2020.[\[PDF\]](http://testmagzine.biz/index.php/testmagzine/article/view/11299/8712) 
-4. Rajay Vedaraj I.S, Jino.S.Ganesh, Niranjen swarup, Madhan Kumar, Raviteja Tirumalapudi, “ARTIFICIAL INTELLIGENCE USING IN VISUAL SLAM METHODS – A REVIEW”, IJAST, vol. 29, no. 4s, pp. 3158-3167, Jun. 2020.[\[PDF\]](http://sersc.org/journals/index.php/IJAST/article/view/22708/11586) 
+3. Raviteja Tirumalapudi, I S Rajay Vedaraj, " Mobile Robots Obstacle Avoidance and Shortest Path Planning Using Algorithms – A Review ", Test Engineering & Management, vol. 83, no. 03, pp. 22434-22443, Jun. 2020.[\[PDF\]](http://testmagzine.biz/index.php/testmagzine/article/view/11299/8712.pdf) 
+4. Rajay Vedaraj I.S, Jino.S.Ganesh, Niranjen swarup, Madhan Kumar, Raviteja Tirumalapudi, “ARTIFICIAL INTELLIGENCE USING IN VISUAL SLAM METHODS – A REVIEW”, IJAST, vol. 29, no. 4s, pp. 3158-3167, Jun. 2020.[\[PDF\]](http://sersc.org/journals/index.php/IJAST/article/view/22708/11586.pdf) 
 
 ### Teaching
 1. Autonomous vehicles - Control and Learning System(RSS02164).[\[PDF\]](https://github.com/Raviteja-T/simulation_work/blob/main/Autonomous%20vehicles%20-%20Control%20and%20Learning%20System.pdf)
