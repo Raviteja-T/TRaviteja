@@ -73,7 +73,7 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 
 ### Resume
 
-.Raviteja Tirumalapudi_resume[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/blob/main/Resume.pdf)
+Raviteja Tirumalapudi[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/blob/main/Resume.pdf)
 
 ### Contact
 
