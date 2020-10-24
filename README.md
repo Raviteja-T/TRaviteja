@@ -15,7 +15,15 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 1. Raviteja Tirumalapudi, I S Rajay Vedaraj, " An Introduction Of Autonomous Vehicles And A Brief Survey", Journal of Critical Reviews, vol. 7, no. 13, pp. 196-202, Jun. 2020. [\[PDF\]](http://www.jcreview.com/fulltext/197-1593069401.pdf) 
 2. Raviteja Tirumalapudi, I S Rajay Vedaraj, " A New RT Shortest Path Planning Algorithm For Mobile Robot Navigation In Known Terrain", International Journal Of Scientific & Technology Research, vol. 9, no. 03, pp. 1044-1047, Mar. 2020.[\[PDF\]](http://www.ijstr.org/final-print/mar2020/A-New-Rt-Shortest-Path-Planning-Algorithm-For-Mobile-Robot-Navigation-In-Known-Terrain.pdf) 
 3. Raviteja Tirumalapudi, I S Rajay Vedaraj, " Mobile Robots Obstacle Avoidance and Shortest Path Planning Using Algorithms – A Review ", Test Engineering & Management, vol. 83, no. 03, pp. 22434-22443, Jun. 2020.[\[PDF\]](http://testmagzine.biz/index.php/testmagzine/article/view/11299/8712.pdf) 
-4. Rajay Vedaraj I.S, Jino.S.Ganesh, Niranjen swarup, Madhan Kumar, Raviteja Tirumalapudi, “ARTIFICIAL INTELLIGENCE USING IN VISUAL SLAM METHODS – A REVIEW”, IJAST, vol. 29, no. 4s, pp. 3158-3167, Jun. 2020.[\[PDF\]](http://sersc.org/journals/index.php/IJAST/article/view/22708/11586.pdf) 
+4. Rajay Vedaraj I.S, Jino.S.Ganesh, Niranjen swarup, Madhan Kumar, Raviteja Tirumalapudi, “ARTIFICIAL INTELLIGENCE USING IN VISUAL SLAM METHODS – A REVIEW”, IJAST, vol. 29, no. 4s, pp. 3158-3167, Jun. 2020.[\[PDF\]](http://sersc.org/journals/index.php/IJAST/article/view/22708/11586.pdf)
+
+
+### Online Certification Courses
+## Coursera 
+1. Introduction to Self-Driving Cars - [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Introduction%20to%20Self-Driving%20Cars.pdf) 
+2. Motion Planning for Self-Driving Cars - [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Motion%20Planning%20for%20Self-Driving%20Cars.pdf) 
+3. State Estimation and Localization for Self-Driving - [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/State%20Estimation%20and%20Localization%20for%20Self-Driving.pdf) 
+4. Visual Perception for Self-Driving Cars - [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Visual%20Perception%20for%20Self-Driving%20Cars.pdf) 
 
 ### Teaching
 1. Autonomous vehicles - Control and Learning System(RSS02164).[\[PDF\]](https://raw.githubusercontent.com/Raviteja-T/TRaviteja/4bd66905626b7265a799d8743a2e75c6a03ac971/Autonomous%20vehicles%20-%20Control%20and%20Learning%20System.pdf)
