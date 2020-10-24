@@ -6,11 +6,11 @@
 
 I am a PhD student at Vellore Institute of Technology (Vellore). Now i am working with Prof. I.S Rajay Vedaraj. Before my PhD, completed my Bachelors in Mechanical Engineering from Narasaraopeta Engineering College, affiliated JNTU Kakinada (India) and my Masters in Robotics from SRM Institute of Science and Technology (India).
 
-### Research Interests
+## Research Interests
 
 I am broadly interested in Motion Planning and Control Systems in Autonomous Vehicles, Mobile Robotics, Path Planning Algorithms and Artificial Intelligence. I have worked on Autonomous robot motion path planning using shortest path planning algorithms. 
 
-### Publications
+## Publications
 
 1. Raviteja Tirumalapudi, I S Rajay Vedaraj, " An Introduction Of Autonomous Vehicles And A Brief Survey", Journal of Critical Reviews, vol. 7, no. 13, pp. 196-202, Jun. 2020. [\[PDF\]](http://www.jcreview.com/fulltext/197-1593069401.pdf) 
 2. Raviteja Tirumalapudi, I S Rajay Vedaraj, " A New RT Shortest Path Planning Algorithm For Mobile Robot Navigation In Known Terrain", International Journal Of Scientific & Technology Research, vol. 9, no. 03, pp. 1044-1047, Mar. 2020.[\[PDF\]](http://www.ijstr.org/final-print/mar2020/A-New-Rt-Shortest-Path-Planning-Algorithm-For-Mobile-Robot-Navigation-In-Known-Terrain.pdf) 
@@ -18,18 +18,24 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 4. Rajay Vedaraj I.S, Jino.S.Ganesh, Niranjen swarup, Madhan Kumar, Raviteja Tirumalapudi, “ARTIFICIAL INTELLIGENCE USING IN VISUAL SLAM METHODS – A REVIEW”, IJAST, vol. 29, no. 4s, pp. 3158-3167, Jun. 2020.[\[PDF\]](http://sersc.org/journals/index.php/IJAST/article/view/22708/11586.pdf)
 
 
-### Online Certification Courses
-## Coursera 
+## Online Certification Courses
+### Coursera 
 1. Introduction to Self-Driving Cars - [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Introduction%20to%20Self-Driving%20Cars.pdf) 
 2. Motion Planning for Self-Driving Cars - [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Motion%20Planning%20for%20Self-Driving%20Cars.pdf) 
 3. State Estimation and Localization for Self-Driving - [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/State%20Estimation%20and%20Localization%20for%20Self-Driving.pdf) 
-4. Visual Perception for Self-Driving Cars - [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Visual%20Perception%20for%20Self-Driving%20Cars.pdf) 
+4. Visual Perception for Self-Driving Cars - [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Visual%20Perception%20for%20Self-Driving%20Cars.pdf)
+5. Basic Image Classification with TensorFlow - [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Basic%20Image%20Classification%20with%20TensorFlow.pdf)
+6. Computrer Vision Basics - [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Computrer%20Vision%20Basics.pdf)
+7. Convolutional Neural Networks - [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Convolutional%20Neural%20Networks.pdf)
+8. Image Classification with CNNs using Keras - [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Image%20Classification%20with%20CNNs%20using%20Keras.pdf)
+9. Image Data Augmentation with Keras - [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Image%20Data%20Augmentation%20with%20Keras.pdf)
+10. Electric Vehicles and Mobility - [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Electric%20Vehicles%20and%20Mobility.pdf)
 
-### Teaching
+## Teaching
 1. Autonomous vehicles - Control and Learning System(RSS02164).[\[PDF\]](https://raw.githubusercontent.com/Raviteja-T/TRaviteja/4bd66905626b7265a799d8743a2e75c6a03ac971/Autonomous%20vehicles%20-%20Control%20and%20Learning%20System.pdf)
 2. Autonomous Vehicles - Planning And System Design(RSS02163).[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Autonomous%20Vehicles%20%E2%80%93%20Planning%20And%20System%20Design.pdf)
 
-### Faculty Development Programs
+## Faculty Development Programs
 
 ### 2020
 1. “Machine Learning & Artificial Intelligence using Spark” by Prashanth Shantigrama, Co-founder and Director , Golden Value Healthcare Pvt Ltd., Bangalore (02/2020) in VIT, Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Machine%20Learning%20%26%20Artificial%20Intelligence%20using%20Spark.pdf)
@@ -61,7 +67,7 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
      VIT,Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Swarm%20Intelligence%20in%20Engineering%20Applications.pdf)
 
 
-### Experience
+## Experience
 
 1. Working as a TRA (Teaching cum Research Assistant) in VIT, Vellore (09/2019).\
 **Work Description:**
@@ -78,7 +84,7 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 3. Worked as a Incharge Head of the Department in St.Marys's group of institutions, Guntur (2013 to 2016).
 4. Worked as a Asst.prof of Narasaraopet Engineering College, Narasaraopet (2012)
 
-### Memberships
+## Memberships
 
 1. IJERT- Robotics and Automation Society.
 2. Global Journal of computer science and technology
@@ -88,9 +94,9 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 6. IASED - International Academy of Science and Engineering for Development (No : 51050322).[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/IASED.pdf)
 7. IAER - International Association of Educators and Researchers (No : 180933).[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/IARE.pdf)
 
-### Resume[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Resume%20Without%20Sign.pdf)
+## Resume[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Resume%20Without%20Sign.pdf)
 
-### Contact
+## Contact
 
 Raviteja Tirumalapudi\
 Research Scholar, School of Mechanical Engineering,\
