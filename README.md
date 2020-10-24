@@ -31,6 +31,12 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 9. Image Data Augmentation with Keras - [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Image%20Data%20Augmentation%20with%20Keras.pdf)
 10. Electric Vehicles and Mobility - [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Electric%20Vehicles%20and%20Mobility.pdf)
 
+### IEEE Online Training (CEU/PDH
+1. Cooperation in Autonomous Vehicles.[\[PDF\]]https://github.com/Raviteja-T/TRaviteja/raw/main/Cooperation%20in%20Autonomous%20Vehicles.pdf)
+2. Developing and Validating Intelligent Vehicle Control Systems.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Developing%20and%20Validating%20Intelligent%20Vehicle%20Control%20Systems.pdf)
+3. Object Visual Detection for Intelligent Vehicles.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Object%20Visual%20Detection%20for%20Intelligent%20Vehicles.pdf)
+4. Sensors for Autonomous Vehicles.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Sensors%20for%20Autonomous%20Vehicles.pdf)
+
 ## Teaching
 1. Autonomous vehicles - Control and Learning System(RSS02164).[\[PDF\]](https://raw.githubusercontent.com/Raviteja-T/TRaviteja/4bd66905626b7265a799d8743a2e75c6a03ac971/Autonomous%20vehicles%20-%20Control%20and%20Learning%20System.pdf)
 2. Autonomous Vehicles - Planning And System Design(RSS02163).[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Autonomous%20Vehicles%20%E2%80%93%20Planning%20And%20System%20Design.pdf)
@@ -94,7 +100,7 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 6. IASED - International Academy of Science and Engineering for Development (No : 51050322).[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/IASED.pdf)
 7. IAER - International Association of Educators and Researchers (No : 180933).[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/IARE.pdf)
 
-## Resume[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Resume%20Without%20Sign.pdf)
+## Resume[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Resume_24-10.pdf)
 
 ## Contact
 
