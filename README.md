@@ -27,24 +27,24 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 2.	Participated in a two day national level workshop on “RECENT ADVANCES IN MECHANICAL ENGIEERING” in TIRUMALA ENGINEERING COLLEGE, NRT.
 3.	Participated in a two day national level workshop on “FINATE ELEMENT ANALYSIS” in NARASARAOPETA ENGINEERING COLLEGE, NRT.
 4.	Participated in a one day national level conference Transformation of Engineering Education over Decades- Its Future in Sai tirumala NVR engineering college, NRT.
-5.	“Autonomous Vehicle Technology” by Mr.Sankar TML, Divisional Manager- R &D division, Ashok Leyland Limited, Chennai (08/2019) in VIT, Vellore.
+5.	“Autonomous Vehicle Technology” by Mr.Sankar TML, Divisional Manager- R &D division, Ashok Leyland Limited, Chennai (08/2019) in VIT, Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Autonomous%20Vehicle%20Technology.pdf)
 6.	“Deep drive into Machine Learning Algorithms for Natural Language Processing” by Mr. Marakkannu M, Senior Director – Engineering, Kore.ai , Hyderabad (09/2019) in VIT,   
-     Vellore.
-7.	“Deep	Learning	Concepts	with	Convolutional	Neural	Network”	by Mr. Mithun, Assistant Manager , Indictis Pvt Ltd, Bengaluru (10/2019) in VIT, Vellore.
+     Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Deep%20drive%20into%20Machine%20Learning%20Algorithms%20for%20Natural%20Language%20Processing.pdf)
+7.	“Deep	Learning	Concepts	with	Convolutional	Neural	Network”	by Mr. Mithun, Assistant Manager , Indictis Pvt Ltd, Bengaluru (10/2019) in VIT, Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Deep%20Learning%20Concepts%20with%20Convolutional%20Neural%20Network.pdf)
 8.	“Artificial intelligence Vs Human intelligence: Nurturing Critical Thinking Skills” by Dr. K. Balaji Reddy, Director,Training & Development , Swarnandhra college of 
-     Engineering & Technology, Narsapuram (10/2019) in VIT,Vellore.
-9.	“IOT in Industrial Automation”  Ajith Chathanath, Product Owner & Senior Principal, SCHNEIDER ELECTRIC, Bangalore (10/2019) in VIT,Vellore.
-10.	“IOT in CYBERSECURITY” PRASHANTH AC And Priya C Shekar, Technical Experts Cyber Security , SCHNEIDER ELECTRIC , Bangalore (10/2019) in VIT,Vellore.
-11.	“Implementation Practices on Artificial Neural Networks – Hands on with Python” Mr. Mithun DJ , Assistant Manager, Indictis Private Ltd, Bengaluru (11/2019) in VIT,Vellore.
-12.	“Effectiveness of 5S thinking and its implementation on productivity of Engineering Industry” Mr. R. Shravan Kumar, Assistant Manager, BMW, Chennai (11/2019) in VIT,Vellore.
+     Engineering & Technology, Narsapuram (10/2019) in VIT,Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Artificial%20intelligence%20Vs%20Human%20intelligence.pdf)
+9.	“IOT in Industrial Automation”  Ajith Chathanath, Product Owner & Senior Principal, SCHNEIDER ELECTRIC, Bangalore (10/2019) in VIT,Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/IOT%20in%20Industrial%20Automation.pdf)
+10.	“IOT in CYBERSECURITY” PRASHANTH AC And Priya C Shekar, Technical Experts Cyber Security , SCHNEIDER ELECTRIC , Bangalore (10/2019) in VIT,Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/IOT%20in%20CYBERSECURITY.pdf)
+11.	“Implementation Practices on Artificial Neural Networks – Hands on with Python” Mr. Mithun DJ , Assistant Manager, Indictis Private Ltd, Bengaluru (11/2019) in VIT,Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Implementation%20Practices%20on%20Artificial%20Neural%20Networks%20%E2%80%93%20Hands%20on%20with%20Python.pdf)
+12.	“Effectiveness of 5S thinking and its implementation on productivity of Engineering Industry” Mr. R. Shravan Kumar, Assistant Manager, BMW, Chennai (11/2019) in VIT,Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Effectiveness%20of%205S%20thinking%20and%20its%20implementation%20on%20productivity%20of%20Engineering%20Industry.pdf)
 13.	“Sentiment Analysis using KNIME: A Machine learning Approach” Prof.S. Chandrasekhar,PhD. (University of Georgia), Senior Professor & Director, IFIM, Bengaluru (11/2019) in 
-     VIT,Vellore.
+     VIT,Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Sentiment%20Analysis%20using%20KNIME%20A%20Machine%20learning%20Approach.pdf)
 14.	 “Reinforcement Learning (Introduction, Q-Learning, and SARSA algorithm) and hands on session” Dr. Akshay Deepak, Faculty, NIT, Bihar, Senior Professor ,(12/2019) in 
-      VIT,Vellore.
-15.	“Artificial Intelligence and Computer Vision using Python based Machine Learning” Mr. Jai Ganesh Suresh, Lead Engineer, HCL Technologies, Chennai ,(12/2019) in VIT,Vellore.
-16.	“AI and Cognitive Services” Ms. Alagunila Meganathan, Founder & CTO , Namakkal, Namakkal,(12/2019) in VIT,Vellore.
+      VIT,Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Reinforcement%20Learning%20(Introduction%2C%20Q-Learning%2C%20and%20SARSA%20algorithm)%20and%20hands%20on%20session.pdf)
+15.	“Artificial Intelligence and Computer Vision using Python based Machine Learning” Mr. Jai Ganesh Suresh, Lead Engineer, HCL Technologies, Chennai ,(12/2019) in VIT,Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Artificial%20Intelligence%20and%20Computer%20Vision%20using%20Python%20based%20Machine%20Learning.pdf)
+16.	“AI and Cognitive Services” Ms. Alagunila Meganathan, Founder & CTO , Namakkal, Namakkal,(12/2019) in VIT,Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/AI%20and%20Cognitive%20Services.pdf)
 17.	“Swarm Intelligence in Engineering Applications” Dr.Suresh Chandra Satapathy, Professor & Dean Research, School of Computer Engineering, IIT Hyderabad,(12/2019) in 
-     VIT,Vellore.
+     VIT,Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Swarm%20Intelligence%20in%20Engineering%20Applications.pdf)
 
 
 ### Experience
