@@ -100,6 +100,14 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 6. IASED - International Academy of Science and Engineering for Development (No : 51050322).[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/IASED.pdf)
 7. IAER - International Association of Educators and Researchers (No : 180933).[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/IARE.pdf)
 
+## Guest lecturers
+
+1. Two days guest lecture at Chirala Engineering College about Robotics (02/2020).[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Guest%20Lecturer%20Chirala%20Engg%20College.pdf)
+2. One day guest lecture at Chirala Engineering College about CFD Lab (03/2018). 
+3. One day guest lecture at St. Marys Group of Institution Guntur about Robotics (01/2013).
+4. One day guest lecture at St. Marys Group of Institution Guntur about Automation  in Manufacturing (01/2013).
+5. One day guest lecture at St. Marys Group of Institution Guntur about Machine dynamics (02/2013).
+
 ## Resume[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Resume_24-10.pdf)
 
 ## Contact
