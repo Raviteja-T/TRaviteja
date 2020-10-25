@@ -96,7 +96,7 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 2. Global Journal of computer science and technology
 3. IRED – Institute of Research Engineers and Doctors (No : SNM10100059417)[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/IRED.pdf)
 4. IAENG – International Association of Engineers (No : 214423)[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/IAENG_membership_214423.pdf) 
-5. ISTE - Indian Society for Technical Education (No : LM 125728)
+5. ISTE - Indian Society for Technical Education (No : LM 125728) [\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/ISTE.pdf)
 6. IASED - International Academy of Science and Engineering for Development (No : 51050322).[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/IASED.pdf)
 7. IAER - International Association of Educators and Researchers (No : 180933).[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/IARE.pdf)
 
