@@ -19,6 +19,8 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 5. Raviteja, T., & Vedaraj, I.S. (2020). Global Image Segmentation Process using Machine Learning algorithm & Convolution Neural Network method for Self- Driving Vehicles. ArXiv, abs/2010.13294.[\[PDF\]](https://arxiv.org/pdf/2010.13294)
 6. T. Ravi Teja, S. Krishna Chaitanya, 2013, Design And Development Of Vehicle Accident Detection System Using Mems Technology, INTERNATIONAL JOURNAL OF ENGINEERING RESEARCH & TECHNOLOGY (IJERT) Volume 02, Issue 08 (August 2013),[\[PDF\]](https://www.ijert.org/research/design-and-development-of-vehicle-accident-detection-system-using-mems-technology-IJERTV2IS80246.pdf)
 7. T. Ravi Teja, S. Krishna Chaitanya, 2013, Optimize The Heuristic Line Balancing Using Nn Technique, INTERNATIONAL JOURNAL OF ENGINEERING RESEARCH & TECHNOLOGY (IJERT) Volume 02, Issue 03 (March 2013),[\[PDF\]](https://www.ijert.org/research/optimize-the-heuristic-line-balancing-using-nn-technique-IJERTV2IS3008.pdf)
+8. Ravi, T., & Krishna, S. (2013). Autonomous robot motion path planning using shortest path planning algorithms. IOSR Journal of Engineering, 3, 65-69. [\[PDF\]](https://www.iosrjen.org/Papers/vol3_issue1%20(part-1)/K03116569.pdf)
+8. Ravi, T. T., and C. T. Krishna. "Computation of natural frequencies of multi degree of freedom system." International Journal of Engineering Research and Technology (IJERT) 10 (2012): 2278-2281.[\[PDF\]](https://www.ijert.org/research/computation-of-natural-frequencies-of-multi-degree-of-freedom-system-IJERTV1IS10544.pdf)
 
 ## Online Certification Courses
 ### Coursera 
