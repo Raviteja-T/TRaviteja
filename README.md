@@ -16,7 +16,9 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 2. Raviteja Tirumalapudi, I S Rajay Vedaraj, " A New RT Shortest Path Planning Algorithm For Mobile Robot Navigation In Known Terrain", International Journal Of Scientific & Technology Research, vol. 9, no. 03, pp. 1044-1047, Mar. 2020.[\[PDF\]](http://www.ijstr.org/final-print/mar2020/A-New-Rt-Shortest-Path-Planning-Algorithm-For-Mobile-Robot-Navigation-In-Known-Terrain.pdf) 
 3. Raviteja Tirumalapudi, I S Rajay Vedaraj, " Mobile Robots Obstacle Avoidance and Shortest Path Planning Using Algorithms – A Review ", Test Engineering & Management, vol. 83, no. 03, pp. 22434-22443, Jun. 2020.[\[PDF\]](http://testmagzine.biz/index.php/testmagzine/article/view/11299/8712.pdf) 
 4. Rajay Vedaraj I.S, Jino.S.Ganesh, Niranjen swarup, Madhan Kumar, Raviteja Tirumalapudi, “ARTIFICIAL INTELLIGENCE USING IN VISUAL SLAM METHODS – A REVIEW”, IJAST, vol. 29, no. 4s, pp. 3158-3167, Jun. 2020.[\[PDF\]](http://sersc.org/journals/index.php/IJAST/article/view/22708/11586.pdf)
-
+5. Raviteja, T., & Vedaraj, I.S. (2020). Global Image Segmentation Process using Machine Learning algorithm & Convolution Neural Network method for Self- Driving Vehicles. ArXiv, abs/2010.13294.[\[PDF\]](https://arxiv.org/pdf/2010.13294)
+6. T. Ravi Teja, S. Krishna Chaitanya, 2013, Design And Development Of Vehicle Accident Detection System Using Mems Technology, INTERNATIONAL JOURNAL OF ENGINEERING RESEARCH & TECHNOLOGY (IJERT) Volume 02, Issue 08 (August 2013),[\[PDF\]](https://www.ijert.org/research/design-and-development-of-vehicle-accident-detection-system-using-mems-technology-IJERTV2IS80246.pdf)
+7. T. Ravi Teja, S. Krishna Chaitanya, 2013, Optimize The Heuristic Line Balancing Using Nn Technique, INTERNATIONAL JOURNAL OF ENGINEERING RESEARCH & TECHNOLOGY (IJERT) Volume 02, Issue 03 (March 2013),[\[PDF\]](https://www.ijert.org/research/optimize-the-heuristic-line-balancing-using-nn-technique-IJERTV2IS3008.pdf)
 
 ## Online Certification Courses
 ### Coursera 
