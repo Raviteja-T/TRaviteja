@@ -38,7 +38,7 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 4. Sensors for Autonomous Vehicles.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Sensors%20for%20Autonomous%20Vehicles.pdf)
 
 ## Teaching
-1. Autonomous vehicles (2019-2020) [Link](https://raviteja-t.github.io/Autonomous-Vehicles-Hub/)
+1. Autonomous vehicles [Link](https://raviteja-t.github.io/Autonomous-Vehicles-Hub/)
 
 ## Faculty Development Programs
 
