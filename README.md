@@ -50,6 +50,7 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 1. “Machine Learning & Artificial Intelligence using Spark” by Prashanth Shantigrama, Co-founder and Director , Golden Value Healthcare Pvt Ltd., Bangalore (02/2020) in VIT, Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Machine%20Learning%20%26%20Artificial%20Intelligence%20using%20Spark.pdf)
 2. “New Trends on Research and Development” by Ramesh T. Subramaniam, Professor, Malaysia, Malaysia (02/2020) in VIT, Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/New%20Trends%20on%20Research%20and%20Development.pdf)
 3. “Patenting your inventions” by Dr SP Subramanian, Deputy controller of patents, Patent Office , Chennai (01/2020) in VIT, Vellore.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Patenting%20your%20inventions.pdf)
+4. AICTE –SPONSERED TWO – WEEKS ONLINE FDP ON RESEARCH METHODOLOGY, DESIGN AND ANALYSIS OF EXPERIMENTSFOR ENGINEERS AND RESEARCHERS (12/2020) in RVR & JC, Guntur.[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/RVRFDP_142.pdf)
 
 ### 2019
 1.	Participated in poster presentation on Artificial intelligence and Robotics in SRM UNIVERSITY, Chennai.
