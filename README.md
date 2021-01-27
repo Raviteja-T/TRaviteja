@@ -11,7 +11,10 @@ I am a PhD student at Vellore Institute of Technology (Vellore). Now i am workin
 I am broadly interested in Motion Planning and Control Systems in Autonomous Vehicles, Mobile Robotics, Path Planning Algorithms and Artificial Intelligence. I have worked on Autonomous robot motion path planning using shortest path planning algorithms. 
 
 ## Publications
+### 2021
+1. Raviteja, Tirumalapudi, IS Rajay Vedaraj, R. Siva Krishnam Raju, and M. Yugandhar. "Heuristic Algorithm for Cooperative Motion Planning & Controlling of Unmanned Surface Vehicles." In IOP Conference Series: Materials Science and Engineering, vol. 1012, no. 1, p. 012020. IOP Publishing, 2021. [\[PDF\]](https://iopscience.iop.org/article/10.1088/1757-899X/1012/1/012020/pdf)
 
+### 2012 - 2020
 1. Raviteja Tirumalapudi, I S Rajay Vedaraj, " An Introduction Of Autonomous Vehicles And A Brief Survey", Journal of Critical Reviews, vol. 7, no. 13, pp. 196-202, Jun. 2020. [\[PDF\]](http://www.jcreview.com/fulltext/197-1593069401.pdf) 
 2. Raviteja Tirumalapudi, I S Rajay Vedaraj, " A New RT Shortest Path Planning Algorithm For Mobile Robot Navigation In Known Terrain", International Journal Of Scientific & Technology Research, vol. 9, no. 03, pp. 1044-1047, Mar. 2020.[\[PDF\]](http://www.ijstr.org/final-print/mar2020/A-New-Rt-Shortest-Path-Planning-Algorithm-For-Mobile-Robot-Navigation-In-Known-Terrain.pdf) 
 3. Raviteja Tirumalapudi, I S Rajay Vedaraj, " Mobile Robots Obstacle Avoidance and Shortest Path Planning Using Algorithms – A Review ", Test Engineering & Management, vol. 83, no. 03, pp. 22434-22443, Jun. 2020.[\[PDF\]](http://testmagzine.biz/index.php/testmagzine/article/view/11299/8712.pdf) 
