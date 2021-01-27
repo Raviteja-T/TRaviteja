@@ -115,7 +115,7 @@ I am broadly interested in Motion Planning and Control Systems in Autonomous Veh
 4. One day guest lecture at St. Marys Group of Institution Guntur about Automation  in Manufacturing (01/2013).
 5. One day guest lecture at St. Marys Group of Institution Guntur about Machine dynamics (02/2013).
 
-## Resume[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Ravi%20teja%20Resume.pdf)
+## Resume[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Rt%20resume%202021%20updated.pdf)
 
 ## Contact
 
