@@ -2,10 +2,6 @@
   <img width="150" height="150" src="https://storage.ning.com/topology/rest/1.0/file/get/8000292501?profile=RESIZE_710x&width=184&height=184&crop=1%3A1">
 </p>
 
-<p align="left">
- <img width="150" height="150" src=https://github.com/Raviteja-T/TRaviteja/raw/main/tutlebot3.jpeg>
-</p>
-
 ## About
 
 I am a PhD student at Vellore Institute of Technology (Vellore). Now i am working with Prof. I.S Rajay Vedaraj. Before my PhD, completed my Bachelors in Mechanical Engineering from Narasaraopeta Engineering College, affiliated JNTU Kakinada (India) and my Masters in Robotics from SRM Institute of Science and Technology (India).
